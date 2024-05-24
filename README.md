@@ -55,7 +55,7 @@ If you want to use it with a version earlier than PHP 8, please use [version 2](
 The easiest way to install Gravatar is via [Composer](http://getcomposer.org/). Run the following command in the root of your project:
 
 ```
-composer require forxer/Gravatar
+composer require hpsweb/gravatar
 ```
 
 ### Without Composer
