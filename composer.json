@@ -1,0 +1,27 @@
+{
+	"name" : "hpsweb/gravatar",
+	"description" : "A library providing easy gravatar integration.",
+	"keywords" : [
+		"gravatar"
+	],
+	"type" : "library",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Vincent Garnier",
+			"email" : "forxer@gmail.org"
+		}
+	],
+	"require" : {
+		"php" : "^8.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Gravatar\\" : "src"
+		}
+	},
+	"minimum-stability" : "dev",
+	"support" : {
+		"issues" : "https://github.com/forxer/gravatar/issues",
+		"email" : "forxer@gmail.com"
+	}
+}
